@@ -54,8 +54,8 @@ export default {
         {
           especie: 'Denton',
           tamaño: '25cm',
-          lugar: 'Punta Estrella',
-          fecha: '14/06/2024',
+          lugar: 'Cantal Roig',
+          fecha: '15/06/2024',
           pescador: 'Vicent',
           imagen: Denton
         },
